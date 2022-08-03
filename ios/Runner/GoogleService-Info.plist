@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>682431361687-2uh5jipv1skrt89ijpbj22jvlnmoh55q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.682431361687-2uh5jipv1skrt89ijpbj22jvlnmoh55q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuiNt0DjxSajEIcjWczqM3KXX1QG74L4Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>682431361687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flyovervpn.app</string>
+	<key>PROJECT_ID</key>
+	<string>flyovervpn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flyovervpn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:682431361687:ios:c12e695716538c3c092fd2</string>
+</dict>
+</plist>

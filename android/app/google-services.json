@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "682431361687",
+    "project_id": "flyovervpn",
+    "storage_bucket": "flyovervpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682431361687:android:1051f1b66912a8c8092fd2",
+        "android_client_info": {
+          "package_name": "com.flyovervpn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682431361687-hn4ad0ens0ta3oi5vd8p8nvadimc2gbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4S7AnSBuFgPpZvgQ-yGxoeVrxPZsxrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682431361687-hn4ad0ens0ta3oi5vd8p8nvadimc2gbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "682431361687-2uh5jipv1skrt89ijpbj22jvlnmoh55q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyovervpn.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
